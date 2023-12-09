@@ -1,0 +1,32 @@
+hr.solid {
+  border-top: 2px solid gainsboro;
+}
+h3 {
+  margin-bottom: 0;
+}
+p {
+  margin: 0;
+}
+.agregar-tarea {
+  width: 500px;
+  margin: 5px;
+}
+#btn {
+  background-color: blueviolet;
+  color: white;
+  padding: 5px;
+  border-radius: 10%;
+}
+p {
+  padding: 5px;
+}
+.nueva-tarea {
+  display: flex;
+}
+input {
+  margin: 5;
+}
+.fa-trash {
+  color: darkred;
+  margin-left: 10px;
+}
